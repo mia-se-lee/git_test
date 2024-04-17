@@ -1,2 +1,4 @@
-adding text to hello_world.txt, opened via command "nano"
+1. adding text to hello_world.txt, opened via command "nano"
+2. revision to require commit message. via command:
+	git commit -m "your message here"
 
